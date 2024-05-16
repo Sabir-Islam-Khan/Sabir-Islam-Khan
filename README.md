@@ -2,7 +2,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter) 
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
-![GitHub followers](https://img.shields.io/github/followers/username?style=social)
+![GitHub followers](https://img.shields.io/github/followers/username?Sabir-Islam-Khanstyle=social)
 ![GitHub stars](https://img.shields.io/github/stars/username?style=social)
 
 Welcome to my GitHub profile! I'm a passionate Flutter developer who loves building beautiful and functional mobile applications. I am currently deeply into scalable system design and Langchain. Here's a bit about me and my work:
