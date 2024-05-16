@@ -29,25 +29,14 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer who loves build
   <img src="https://img.shields.io/badge/CI/CD-Automation-yellowgreen" />
 </p>
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sabir-Islam-Khan&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabir-Islam-Khan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ## 📂 Featured Repositories
 
 <p align="center">
   <a href="https://github.com/Sabir-Islam-Khan/diu_smart_bot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo1&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sabir-Islam-Khan&repo=repo1&theme=radical" />
   </a>
   <a href="https://github.com/Sabir-Islam-Khan/ai_caption_gen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo2&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sabir-Islam-Khan&repo=repo2&theme=radical" />
   </a>
 </p>
 
