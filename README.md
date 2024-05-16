@@ -32,17 +32,18 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer who loves build
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabir-Islam-Khan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide=prs,issues,contribs&custom_title=My%20GitHub%20Stats%20%E2%9A%A1&count_private=true&include_all_commits=true&hide_border=true&line_height=24&hide_rank=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000" alt="GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabir-Islam-Khan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 📂 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/Sabir-Islam-Khan/repo1">
+  <a href="https://github.com/Sabir-Islam-Khan/diu_smart_bot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo1&theme=radical" />
   </a>
-  <a href="https://github.com/Sabir-Islam-Khan/repo2">
+  <a href="https://github.com/Sabir-Islam-Khan/ai_caption_gen">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo2&theme=radical" />
   </a>
 </p>
