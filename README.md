@@ -1,4 +1,4 @@
-# Just geeking as the CEO and Founder of [AsteriskLab]("https://asterisklab.co/")👋
+# Just geeking as the CEO and Founder of **[AsteriskLab](https://asterisklab.co/)**
 
 ![Flutter](https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter) 
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
@@ -32,17 +32,17 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer who loves build
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabir-Islam-Khan&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabir-Islam-Khan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 📂 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/username/repo1">
+  <a href="https://github.com/Sabir-Islam-Khan/repo1">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo1&theme=radical" />
   </a>
-  <a href="https://github.com/username/repo2">
+  <a href="https://github.com/Sabir-Islam-Khan/repo2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo2&theme=radical" />
   </a>
 </p>
