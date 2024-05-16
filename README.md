@@ -33,10 +33,10 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer who loves build
 
 <p align="center">
   <a href="https://github.com/Sabir-Islam-Khan/diu_smart_bot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sabir-Islam-Khan&repo=repo1&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sabir-Islam-Khan&repo=diu_smart_bot&theme=radical" />
   </a>
   <a href="https://github.com/Sabir-Islam-Khan/ai_caption_gen">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sabir-Islam-Khan&repo=repo2&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sabir-Islam-Khan&repo=ai_caption_gen&theme=radical" />
   </a>
 </p>
 
