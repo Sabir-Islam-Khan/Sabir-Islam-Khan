@@ -32,7 +32,8 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer who loves build
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sabir-Islam-Khan&show_icons=true&theme=radical&custom_title=My%20GitHub%20Stats%20%E2%9A%A1&hide_border=true&line_height=24&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&hide=issues,prs,contribs&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?Sabir-Islam-Khan&show_icons=true&theme=radical&custom_title=My%20GitHub%20Stats%20%E2%9A%A1&hide_border=true&line_height=24&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ff0000&hide=prs,issues,contribs&count_private=true&include_all_commits=true&hide_rank=true" alt="GitHub Stats" />
+
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabir-Islam-Khan&layout=compact&theme=radical" alt="Top Languages" />
